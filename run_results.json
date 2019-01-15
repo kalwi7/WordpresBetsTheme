@@ -1,0 +1,388 @@
+{
+ "game": [
+  {
+   "team1": "Manchester City",
+   "team2": "Burton",
+   "score": "-",
+   "time": "20:45"
+  },
+  {
+   "team1": "Adelaide United",
+   "team2": "Melbourne Victory",
+   "score": "2 - 0",
+   "time": "09:50"
+  },
+  {
+   "team1": "Perth Glory",
+   "team2": "Sydney FC",
+   "score": "3 - 1",
+   "time": "12:00"
+  },
+  {
+   "team1": "Japonia",
+   "team2": "Turkmenistan",
+   "score": "3 - 2",
+   "time": "12:00"
+  },
+  {
+   "team1": "Uzbekistan",
+   "team2": "Oman",
+   "score": "2 - 1",
+   "time": "14:30"
+  },
+  {
+   "team1": "Katar",
+   "team2": "Liban",
+   "score": "2 - 0",
+   "time": "17:00"
+  },
+  {
+   "team1": "Hong Kong",
+   "team2": "Guangdong XI",
+   "score": "-",
+   "time": "10:00"
+  },
+  {
+   "team1": "Nova Iguacu",
+   "team2": "Resende",
+   "score": "0 - 0",
+   "time": "19:00"
+  },
+  {
+   "team1": "Macae",
+   "team2": "Americano FC",
+   "score": "-",
+   "time": "22:00"
+  },
+  {
+   "team1": "AEK Larnaca",
+   "team2": "Apollon",
+   "score": "0 - 0",
+   "time": "18:00"
+  },
+  {
+   "team1": "Enppi",
+   "team2": "El Gaish",
+   "score": "1 - 0",
+   "time": "16:00"
+  },
+  {
+   "team1": "Monaco",
+   "team2": "Rennes",
+   "score": "0 - 1",
+   "time": "18:45"
+  },
+  {
+   "team1": "Bordeaux",
+   "team2": "Le Havre",
+   "score": "-",
+   "time": "21:05"
+  },
+  {
+   "team1": "PSG",
+   "team2": "Guingamp",
+   "score": "-",
+   "time": "21:05"
+  },
+  {
+   "team1": "Smyrnis",
+   "team2": "Atromitos",
+   "score": "0 - 3",
+   "time": "14:00"
+  },
+  {
+   "team1": "AEL Larissa",
+   "team2": "Asteras T.",
+   "score": "3 - 2",
+   "time": "16:15"
+  },
+  {
+   "team1": "Chania Kissamikos",
+   "team2": "AEK",
+   "score": "0 - 1",
+   "time": "18:30"
+  },
+  {
+   "team1": "Girona",
+   "team2": "Atl. Madryt",
+   "score": "0 - 0",
+   "time": "19:30"
+  },
+  {
+   "team1": "Getafe",
+   "team2": "Valladolid",
+   "score": "-",
+   "time": "20:30"
+  },
+  {
+   "team1": "Villarreal",
+   "team2": "Espanyol",
+   "score": "-",
+   "time": "20:30"
+  },
+  {
+   "team1": "Real Madryt",
+   "team2": "Leganes",
+   "score": "-",
+   "time": "21:30"
+  },
+  {
+   "team1": "Llagostera Costa Brava",
+   "team2": "Conquense",
+   "score": "1 - 1",
+   "time": "17:30"
+  },
+  {
+   "team1": "Pontevedra",
+   "team2": "Navalcarnero",
+   "score": "0 - 0",
+   "time": "18:00"
+  },
+  {
+   "team1": "Pena",
+   "team2": "R. Union",
+   "score": "0 - 0",
+   "time": "19:30"
+  },
+  {
+   "team1": "Barakaldo",
+   "team2": "Mirandes",
+   "score": "-",
+   "time": "20:15"
+  },
+  {
+   "team1": "CF Talavera",
+   "team2": "Socuellamos",
+   "score": "-",
+   "time": "20:45"
+  },
+  {
+   "team1": "Mohun Bagan",
+   "team2": "Minerva",
+   "score": "2 - 0",
+   "time": "09:30"
+  },
+  {
+   "team1": "Reno",
+   "team2": "Dunbeholden",
+   "score": "-",
+   "time": "21:00"
+  },
+  {
+   "team1": "UWI",
+   "team2": "Harbour View",
+   "score": "-",
+   "time": "21:00"
+  },
+  {
+   "team1": "Safi",
+   "team2": "Raja Casablanca",
+   "score": "-",
+   "time": "15:00"
+  },
+  {
+   "team1": "Atlante",
+   "team2": "Pachuca",
+   "score": "1 - 2",
+   "time": "02:00"
+  },
+  {
+   "team1": "U.N.A.M.",
+   "team2": "Atlas",
+   "score": "0 - 1",
+   "time": "02:00"
+  },
+  {
+   "team1": "UAEM Potros",
+   "team2": "Monarcas",
+   "score": "1 - 2",
+   "time": "02:00"
+  },
+  {
+   "team1": "Cimarrones de Sonora",
+   "team2": "Guadalajara",
+   "score": "1 - 2",
+   "time": "04:00"
+  },
+  {
+   "team1": "Lobos BUAP",
+   "team2": "Zacatecas Mineros",
+   "score": "0 - 1",
+   "time": "04:00"
+  },
+  {
+   "team1": "Braga B",
+   "team2": "FC Porto B",
+   "score": "0 - 1",
+   "time": "16:00"
+  },
+  {
+   "team1": "Ferreira",
+   "team2": "Leixoes",
+   "score": "1 - 0",
+   "time": "16:00"
+  },
+  {
+   "team1": "Penafiel",
+   "team2": "Academico Viseu",
+   "score": "2 - 0",
+   "time": "16:00"
+  },
+  {
+   "team1": "Estoril",
+   "team2": "Arouca",
+   "score": "0 - 1",
+   "time": "18:00"
+  },
+  {
+   "team1": "Guimaraes B",
+   "team2": "Benfica B",
+   "score": "1 - 0",
+   "time": "18:00"
+  },
+  {
+   "team1": "Varzim",
+   "team2": "CD Cova da Piedade",
+   "score": "1 - 1",
+   "time": "18:00"
+  },
+  {
+   "team1": "Bidvest Wits",
+   "team2": "Kaizer",
+   "score": "0 - 0",
+   "time": "18:30"
+  },
+  {
+   "team1": "Maritzburg Utd",
+   "team2": "Free State Stars",
+   "score": "1 - 0",
+   "time": "18:30"
+  },
+  {
+   "team1": "Sparta Praga (Cze)",
+   "team2": "Ceske Budejovice (Cze)",
+   "score": "3 - 1",
+   "time": "11:00"
+  },
+  {
+   "team1": "Erfurt (Ger)",
+   "team2": "Inter Lipsk (Ger)",
+   "score": "3 - 1",
+   "time": "12:00"
+  },
+  {
+   "team1": "Dresden (Ger)",
+   "team2": "Bautzen (Ger)",
+   "score": "7 - 0",
+   "time": "13:00"
+  },
+  {
+   "team1": "Sivasspor (Tur)",
+   "team2": "Partizani (Alb)",
+   "score": "1 - 1",
+   "time": "13:00"
+  },
+  {
+   "team1": "Trnava (Svk)",
+   "team2": "Znojmo (Cze)",
+   "score": "-",
+   "time": "13:00"
+  },
+  {
+   "team1": "Jena (Ger)",
+   "team2": "Oberlausitz (Ger)",
+   "score": "4 - 0",
+   "time": "13:30"
+  },
+  {
+   "team1": "Hertha (Ger)",
+   "team2": "Bielefeld (Ger)",
+   "score": "4 - 1",
+   "time": "14:00"
+  },
+  {
+   "team1": "Munich 1860 (Ger)",
+   "team2": "Ried (Aut)",
+   "score": "2 - 2",
+   "time": "14:00"
+  },
+  {
+   "team1": "Sparta Praga (Cze)",
+   "team2": "Ceske Budejovice (Cze)",
+   "score": "-",
+   "time": "14:00"
+  },
+  {
+   "team1": "Zurich (Sui)",
+   "team2": "Aarau (Sui)",
+   "score": "4 - 3",
+   "time": "14:00"
+  },
+  {
+   "team1": "Lugano (Sui)",
+   "team2": "Chiasso (Sui)",
+   "score": "3 - 0",
+   "time": "14:30"
+  },
+  {
+   "team1": "Basaksehir (Tur)",
+   "team2": "Kukesi (Alb)",
+   "score": "2 - 1",
+   "time": "15:00"
+  },
+  {
+   "team1": "Besiktas (Tur)",
+   "team2": "Afjet Afyonspor (Tur)",
+   "score": "5 - 1",
+   "time": "15:00"
+  },
+  {
+   "team1": "Mlada Boleslav (Cze)",
+   "team2": "Zizkov (Cze)",
+   "score": "3 - 0",
+   "time": "15:00"
+  },
+  {
+   "team1": "Rizespor (Tur)",
+   "team2": "Osnabruck (Ger)",
+   "score": "2 - 1",
+   "time": "15:00"
+  },
+  {
+   "team1": "Hannover (Ger)",
+   "team2": "Waregem (Bel)",
+   "score": "3 - 3",
+   "time": "15:30"
+  },
+  {
+   "team1": "Magdeburg (Ger)",
+   "team2": "Shenzhen (Chn)",
+   "score": "2 - 0",
+   "time": "16:00"
+  },
+  {
+   "team1": "Mahlsdorf (Ger)",
+   "team2": "Furstenwalde (Ger)",
+   "score": "2 - 1",
+   "time": "19:00"
+  },
+  {
+   "team1": "Vaduz (Lie)",
+   "team2": "Bruhl SG (Sui)",
+   "score": "-",
+   "time": "19:30"
+  },
+  {
+   "team1": "Crevillente (Esp)",
+   "team2": "Elche (Esp)",
+   "score": "-",
+   "time": "20:15"
+  },
+  {
+   "team1": "Etoile Sahel",
+   "team2": "Stade Tunisien",
+   "score": "4 - 1",
+   "time": "14:00"
+  }
+ ]
+}
